@@ -1,0 +1,8 @@
+name: ChallengeMenu
+version: 1.0
+main: org.exampl.untitled.ChallengeMenuPlugin
+api-version: 1.21
+commands:
+  challenges:
+    description: Открыть меню испытаний
+    usage: /challenges
